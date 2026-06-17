@@ -910,6 +910,8 @@ def update_consultoria() -> None:
         # Get the last known URL to avoid re-downloading stale data immediately
         last_url = read_last_url()
 
+        print("BTG_WEBHOOK_API_KEY =", os.getenv("BTG_WEBHOOK_API_KEY"))
+
         # # # --- Step 1: Base Report ---
         try:
             base_url = process_base_report(previous_url=last_url, token_manager=t_manager, prefix=prefix)
