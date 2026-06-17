@@ -61,8 +61,10 @@ OUTPUT_DIR = "diretorio_arq"
 GOOGLE_SHEET_ID = "1z63uqeENfqZhtiwKsQ1KEphS9HUg4bMYzMQmwpp83KQ"
 CREDENTIALS_PATH = os.path.join("artifac", "cliente.json")
 
-API_KEY = os.getenv("BTG_WEBHOOK_API_KEY")  # MUST be set in env
+# API_KEY = os.getenv("BTG_WEBHOOK_API_KEY")  # MUST be set in env
 
+
+API_KEY = BTG_WEBHOOK_API_KEY
 
 # =========================
 # UTILITIES
@@ -911,7 +913,7 @@ def update_consultoria() -> None:
         # Get the last known URL to avoid re-downloading stale data immediately
         last_url = read_last_url()
 
-        print("BTG_WEBHOOK_API_KEY =", os.getenv("BTG_WEBHOOK_API_KEY"))
+        print("BTG_WEBHOOK_API_KEY =", BTG_WEBHOOK_API_KEY)
 
         # # # --- Step 1: Base Report ---
         try:
