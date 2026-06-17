@@ -16,7 +16,7 @@ import tokens as tk
 import pygsheets
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(".env")
 
 # =========================
 # CONSTANTS
