@@ -1,0 +1,29 @@
+Assunto: Problema de Integração - Webhook do Relatório de Posição (Position Report) para a conta Gen
+
+Prezados, equipe de Suporte de APIs/Integração do BTG Pactual,
+
+Escrevemos para solicitar apoio com a integração do endpoint de Relatório de Posição ("Position Report" - /api-rm-reports/api/v1/rm-reports/position). 
+
+Temos esse fluxo rodando perfeitamente para a nossa conta da "Consultoria" (onde disparamos o relatório e a URL de download chega normalmente no nosso Webhook). Contudo, ao utilizarmos a mesma lógica e o mesmo endpoint de Webhook para a nossa conta "Gen" (CGE: 1040782, CNPJ: 21891835000159), o fluxo falha na etapa de notificação.
+
+Detalhes do problema:
+
+1. O disparo do relatório para o CGE 1040782 retorna SUCESSO (Status HTTP 200) na API do BTG. Ou seja, a requisição é aceita sem erros.
+   -> Abaixo está um exemplo real e recente de disparo feito por nós para vocês analisarem nos logs:
+      - Endpoint: GET https://api.btgpactual.com/api-rm-reports/api/v1/rm-reports/position
+      - x-id-partner-request (UUID): 75b1f5ac-dac8-4a21-be80-0e6142c1d258
+      - Horário do disparo: 26/05/2026, por volta das 17:45 (Horário de Brasília)
+      - Retorno recebido: HTTP 200
+
+2. Contudo, a nossa URL do Webhook nunca recebe a notificação com o link para baixar o arquivo deste relatório. A integração fica aguardando a notificação e eventualmente expira por tempo (timeout).
+
+3. Notamos também que, em vez de recebermos o link do arquivo, nossa URL do Webhook está recebendo notificações não solicitadas sobre eventos de movimentação bancária dessa conta (payloads com `type: CASH_EVENT`, `type: DEBIT`, etc.). Exemplo exato do payload que chegou enquanto aguardávamos o relatório (logo após o disparo do UUID acima):
+{'accountNumber': '018537696', 'data': {'description': 'Taxa de custodia sobre operacao de Tesouro Direto: LFT 01/03/2031', 'isSameOwnership': True, 'type': 'DEBIT', 'value': 168.53}, 'type': 'CASH_EVENT'}
+
+Gostaríamos de pedir a ajuda de vocês para verificar:
+- Por que o Webhook do Relatório de Posição não está notificando a nossa URL quando o relatório é processado para o parceiro Gen (CGE 1040782)? A URL configurada para nós deveria ser a mesma que usamos para a Consultoria.
+- Poderiam desabilitar o envio desses eventos transacionais (`CASH_EVENT`) para essa URL de Webhook, deixando apenas as notificações de arquivos de relatórios assíncronos?
+
+Agradecemos o suporte técnico.
+
+Atenciosamente,

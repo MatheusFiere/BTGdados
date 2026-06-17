@@ -1,0 +1,51 @@
+-- TABELA DE NNM (NET NEW MONEY / CAPTAÇÃO LÍQUIDA)
+CREATE TABLE IF NOT EXISTS public.tb_nnm (
+    id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    nr_conta BIGINT NOT NULL,
+    data_captacao DATE,
+    ativo TEXT,
+    mercado TEXT,
+    cge_officer TEXT,
+    tipo_lancamento TEXT,
+    descricao TEXT,
+    quantidade FLOAT,
+    captacao FLOAT,
+    is_officer_nnm BOOLEAN,
+    is_partner_nnm BOOLEAN,
+    is_channel_nnm BOOLEAN,
+    is_bu_nnm BOOLEAN,
+    submercado TEXT,
+    submercado_detalhado TEXT,
+    CONSTRAINT uq_nnm_nr_conta UNIQUE (nr_conta)
+);
+
+-- TABELA DE ORDENS DA BOLSA
+CREATE TABLE IF NOT EXISTS public.tb_ordens_bolsa (
+    id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    account BIGINT NOT NULL,
+    "avgPx" FLOAT,
+    "clOrdId" TEXT,
+    "creationDate" DATE,
+    "cumQty" FLOAT,
+    "expireTime" TEXT,
+    "leavesQty" FLOAT,
+    "ordStatus" TEXT,
+    "ordStatusDescription" TEXT,
+    "orderId" TEXT,
+    "orderQty" FLOAT,
+    "orderStrategy" TEXT,
+    "orderType" TEXT,
+    origin TEXT,
+    price FLOAT,
+    "sendingTime" TIMESTAMPTZ,
+    side TEXT,
+    "sideDescription" TEXT,
+    "startPrice" FLOAT,
+    "startTrigger" FLOAT,
+    "stopTrigger" FLOAT,
+    symbol TEXT,
+    "text" TEXT,
+    "traderType" TEXT,
+    "transactTime" TIMESTAMPTZ,
+    CONSTRAINT uq_ordens_account UNIQUE (account)
+);

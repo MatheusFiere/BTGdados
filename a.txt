@@ -1,0 +1,9 @@
+
+https://api.btgpactual.com/iaas-profitability
+post-performance-report-by-account
+
+POST
+/api/v1/performance-report/account
+
+
+https://api.btgpactual.com/iaas-profitability/api/v1/performance-report/account

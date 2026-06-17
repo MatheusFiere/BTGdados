@@ -1,0 +1,53 @@
+======================================================
+RESUMO DOS DADOS COLETADOS E ENVIADOS AO SUPABASE
+======================================================
+
+1. TODOS OS DADOS COLETADOS (DIRETÓRIO DE ARQUIVOS)
+------------------------------------------------------
+Os seguintes dados foram extraídos do BTG e armazenados localmente (bases "consultoria" e "gen"):
+
+- DADOS DE CLIENTES E CADASTRO:
+  * Dados Cadastrais: A "ficha" do cliente com informações pessoais (nome, CPF, contatos, endereço) e perfil de investidor.
+  * Cliente Base BTG: O "raio-X" financeiro, mostrando o Patrimônio Líquido (PL) total, divisão em Renda Fixa/Variável, movimentações e vinculação ao assessor.
+  * Merged (Consolidado): A união dos Dados Cadastrais com a Base BTG em um único arquivo unificado.
+
+- POSIÇÃO, RENTABILIDADE E MOVIMENTAÇÃO:
+  * Posição: A "fotografia" da carteira de investimentos (quais ativos o cliente possui, quantidade, valor de custo, valor de mercado).
+  * Rentabilidade Diária do Produto: O lucro ou prejuízo diário detalhado por produto da carteira.
+  * Performance Account: Dados consolidados de performance (rentabilidade) da conta como um todo.
+  * Ordens Bolsa: Histórico de compras e vendas enviadas para a bolsa de valores.
+
+- DADOS BANCÁRIOS E SERVIÇOS:
+  * Banking: Uso de serviços do "dia a dia" (cartão de crédito, cheque especial aprovado, PIX, seguros).
+
+- CATÁLOGO DE PRODUTOS:
+  * Debêntures: Catálogo de debêntures com emissor, vencimento e taxas.
+  * Informação Fundos: Catálogo de fundos com gestor, administrador, taxas e histórico de rentabilidade.
+
+- ARQUIVOS DE ONBOARDING:
+  * Dados Onboarding / Onboarding Partner: Status das contas em processo de abertura.
+
+
+2. DADOS ENVIADOS PARA O SUPABASE
+------------------------------------------------------
+A partir da vasta coleta acima, o script de orquestração ("run_all.py") filtra e sincroniza com o Supabase apenas as informações essenciais, divididas em 4 etapas (enviadas tanto para "consultoria" quanto para "gen"):
+
+1. Dados Cadastrais, Contas e Assessores:
+   - Arquivo de Origem: "merged_{prefix}.csv" (Ex: merged_consultoria.csv)
+   - O que foi para o banco: O cadastro consolidado com informações pessoais unidas ao resumo financeiro (PL) e a qual assessor o cliente está vinculado.
+
+2. Posição Financeira:
+   - Arquivo de Origem: "{prefix}_Posicao.csv"
+   - O que foi para o banco: O detalhamento da carteira de investimentos, contendo os ativos, quantidades e valores de mercado.
+
+3. Dados Bancários (Banking):
+   - Arquivo de Origem: "{prefix}_Banking.csv"
+   - O que foi para o banco: As informações sobre engajamento bancário do cliente (cartão de crédito, limite, etc).
+
+4. Performance da Conta:
+   - Arquivo de Origem: "{prefix}_Performance_Account.csv"
+   - O que foi para o banco: O desempenho/rentabilidade da conta do cliente (quando o arquivo está disponível).
+
+======================================================
+CONCLUSÃO:
+O sistema extrai um conjunto bem completo de relatórios operacionais, de movimentação e de catálogo de produtos do BTG, mas foca em enviar para a nuvem (Supabase) os dados "core" do cliente: quem ele é (Merged), o que ele tem na carteira (Posicao), como ele usa o banco (Banking) e como a conta está rendendo (Performance). Outros arquivos pesados (como rentabilidade diária por produto, catálogos e histórico de ordens) ficam salvos apenas localmente para consultas ou uso futuro.

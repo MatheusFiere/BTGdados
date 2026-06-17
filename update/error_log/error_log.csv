@@ -1,0 +1,868 @@
+2026-02-25 14:12:31.918728;CRITICAL ERROR IN BASE REPORT: [Errno 2] No such file or directory: 'artifac\\cliente.json'
+2026-02-25 14:29:05.609815;CRITICAL ERROR IN BASE REPORT (consultoria): [Errno 2] No such file or directory: 'artifac\\cliente.json'
+2026-02-25 22:56:40.167681;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-02-25 22:57:08.893103;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-25 22:57:14.252941;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-25 22:57:19.546558;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-25 22:57:24.892733;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-25 22:57:30.210181;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-25 22:57:35.482371;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-25 22:57:40.788907;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-25 22:57:46.098584;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-25 22:57:51.417126;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-25 22:57:56.424883;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-02-25 22:59:58.718862;CRITICAL ERROR IN BASE REPORT (gen): [Errno 2] No such file or directory: 'artifac\\cliente.json'
+2026-02-26 11:22:55.606471;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-02-26 11:23:30.720785;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-02-26 11:24:05.784980;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-02-26 11:24:40.862792;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-02-26 11:25:15.942246;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-02-26 11:25:27.323282;ERRO AO OBTER URL: 'response'
+2026-02-26 11:25:32.623627;ERRO AO OBTER URL: 'response'
+2026-02-26 11:25:37.916517;ERRO AO OBTER URL: 'response'
+2026-02-26 11:25:43.218976;ERRO AO OBTER URL: 'response'
+2026-02-26 11:25:48.519698;ERRO AO OBTER URL: 'response'
+2026-02-26 11:25:53.521289;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-02-26 13:02:47.211771;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-02-26 13:03:22.275797;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-02-26 13:03:34.623508;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-26 13:03:39.938870;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-26 13:03:45.296339;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-26 13:03:50.591843;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-26 13:03:55.921657;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-26 13:04:01.323418;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-26 13:04:06.659244;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-26 13:04:11.946582;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-02-26 13:04:16.954020;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-02-26 13:07:19.974859;Error merging datasets for consultoria: [Errno 2] No such file or directory: 'diretorio_arq/consultoria_Cliente_Base_BTG.csv'
+2026-02-26 13:08:21.599782;CRITICAL ERROR IN BASE REPORT (gen): [Errno 2] No such file or directory: 'artifac\\cliente.json'
+2026-02-26 13:14:35.948380;ERRO AO OBTER URL: 'response'
+2026-02-26 13:14:41.312691;ERRO AO OBTER URL: 'response'
+2026-03-02 14:37:30.701209;CRITICAL ERROR IN BASE REPORT (consultoria): [Errno 2] No such file or directory: 'artifac\\cliente.json'
+2026-03-02 15:26:38.646235;CRITICAL ERROR IN BASE REPORT (gen): [Errno 2] No such file or directory: 'artifac\\cliente.json'
+2026-03-02 16:57:38.732961;ERRO AO OBTER URL: 'response'
+2026-03-02 16:57:44.637492;ERRO AO OBTER URL: 'response'
+2026-03-02 16:57:50.460847;ERRO AO OBTER URL: 'response'
+2026-03-02 16:57:55.933077;ERRO AO OBTER URL: 'response'
+2026-03-02 17:29:30.429072;ERRO AO OBTER URL: 'response'
+2026-03-02 17:29:35.845312;ERRO AO OBTER URL: 'response'
+2026-03-02 17:29:41.811785;ERRO AO OBTER URL: 'response'
+2026-03-02 17:29:48.036738;ERRO AO OBTER URL: 'response'
+2026-03-02 17:29:53.596851;ERRO AO OBTER URL: 'response'
+2026-03-02 17:30:00.660508;ERRO AO OBTER URL: 'response'
+2026-03-02 17:30:05.991243;ERRO AO OBTER URL: 'response'
+2026-03-02 17:30:13.889214;ERRO AO OBTER URL: 'response'
+2026-03-02 17:30:19.465474;ERRO AO OBTER URL: 'response'
+2026-03-02 17:30:24.987952;ERRO AO OBTER URL: 'response'
+2026-03-02 17:31:30.958357;ERRO AO OBTER URL: 'response'
+2026-03-02 17:31:36.420756;ERRO AO OBTER URL: 'response'
+2026-03-02 17:31:42.142655;ERRO AO OBTER URL: 'response'
+2026-03-02 17:31:47.892427;ERRO AO OBTER URL: 'response'
+2026-03-02 17:31:53.357942;ERRO AO OBTER URL: 'response'
+2026-03-02 17:31:58.687621;ERRO AO OBTER URL: 'response'
+2026-03-02 17:32:04.257108;ERRO AO OBTER URL: 'response'
+2026-03-02 17:32:09.662294;ERRO AO OBTER URL: 'response'
+2026-03-02 17:32:14.964540;ERRO AO OBTER URL: 'response'
+2026-03-02 17:32:20.391827;ERRO AO OBTER URL: 'response'
+2026-03-02 18:01:40.582828;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-03-02 18:01:49.929081;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-02 18:01:55.612650;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-02 18:02:00.974425;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-02 18:02:06.312113;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-02 18:02:11.702342;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-02 18:02:17.009092;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-02 18:02:22.347534;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-02 18:02:27.774177;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-02 18:02:33.509361;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-02 18:02:38.511662;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-03-03 12:50:35.654316;ERRO AO OBTER URL: 'response'
+2026-03-03 12:50:40.970956;ERRO AO OBTER URL: 'response'
+2026-03-03 12:50:46.293707;ERRO AO OBTER URL: 'response'
+2026-03-03 12:50:51.609592;ERRO AO OBTER URL: 'response'
+2026-03-03 12:50:57.083694;ERRO AO OBTER URL: 'response'
+2026-03-03 12:51:02.663921;ERRO AO OBTER URL: 'response'
+2026-03-03 12:51:08.049418;ERRO AO OBTER URL: 'response'
+2026-03-03 12:51:13.383998;ERRO AO OBTER URL: 'response'
+2026-03-03 12:51:19.083212;ERRO AO OBTER URL: 'response'
+2026-03-03 12:51:24.393696;ERRO AO OBTER URL: 'response'
+2026-03-03 14:39:54.641270;ERRO AO OBTER URL: 'response'
+2026-03-03 14:40:00.022658;ERRO AO OBTER URL: 'response'
+2026-03-03 14:40:05.406616;ERRO AO OBTER URL: 'response'
+2026-03-03 14:40:10.829890;ERRO AO OBTER URL: 'response'
+2026-03-03 14:40:16.141093;ERRO AO OBTER URL: 'response'
+2026-03-03 14:40:21.474770;ERRO AO OBTER URL: 'response'
+2026-03-03 14:40:27.342678;ERRO AO OBTER URL: 'response'
+2026-03-03 14:40:32.646086;ERRO AO OBTER URL: 'response'
+2026-03-03 14:40:38.065799;ERRO AO OBTER URL: 'response'
+2026-03-03 14:40:43.518849;ERRO AO OBTER URL: 'response'
+2026-03-03 14:41:49.611177;ERRO AO OBTER URL: 'response'
+2026-03-03 14:41:54.931458;ERRO AO OBTER URL: 'response'
+2026-03-03 14:42:00.212489;ERRO AO OBTER URL: 'response'
+2026-03-03 14:42:05.504818;ERRO AO OBTER URL: 'response'
+2026-03-03 14:42:10.808711;ERRO AO OBTER URL: 'response'
+2026-03-03 14:42:16.122706;ERRO AO OBTER URL: 'response'
+2026-03-03 14:42:21.511683;ERRO AO OBTER URL: 'response'
+2026-03-03 14:42:26.820250;ERRO AO OBTER URL: 'response'
+2026-03-03 14:42:32.125310;ERRO AO OBTER URL: 'response'
+2026-03-03 14:42:37.416394;ERRO AO OBTER URL: 'response'
+2026-03-03 14:43:43.096596;ERRO AO OBTER URL: 'response'
+2026-03-03 14:43:49.240908;ERRO AO OBTER URL: 'response'
+2026-03-03 14:43:54.860954;ERRO AO OBTER URL: 'response'
+2026-03-03 14:44:00.570938;ERRO AO OBTER URL: 'response'
+2026-03-03 14:44:06.217558;ERRO AO OBTER URL: 'response'
+2026-03-03 14:44:11.526475;ERRO AO OBTER URL: 'response'
+2026-03-03 14:44:16.844463;ERRO AO OBTER URL: 'response'
+2026-03-03 14:44:22.151450;ERRO AO OBTER URL: 'response'
+2026-03-03 14:44:27.849336;ERRO AO OBTER URL: 'response'
+2026-03-03 14:44:33.147739;ERRO AO OBTER URL: 'response'
+2026-03-04 15:05:12.278661;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-03-04 15:05:24.608636;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 15:05:30.423874;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 15:05:35.807673;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 15:05:41.103678;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 15:05:46.477339;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 15:05:51.957442;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 15:05:57.324498;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 15:06:02.691218;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 15:06:08.076633;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 15:06:13.079151;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-03-04 17:09:46.074597;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-03-04 17:09:57.433693;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 17:10:02.823653;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 17:10:08.226863;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 17:10:13.916478;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 17:10:19.304886;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 17:10:24.675816;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 17:10:30.065808;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 17:10:35.449748;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 17:10:40.840172;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-04 17:10:45.845796;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-03-04 17:16:06.378379;ERRO AO OBTER URL: 'response'
+2026-03-04 17:16:11.672386;ERRO AO OBTER URL: 'response'
+2026-03-04 17:16:17.104322;ERRO AO OBTER URL: 'response'
+2026-03-04 17:16:22.871840;ERRO AO OBTER URL: 'response'
+2026-03-04 17:16:28.178100;ERRO AO OBTER URL: 'response'
+2026-03-04 17:16:33.590140;ERRO AO OBTER URL: 'response'
+2026-03-04 17:16:38.913573;ERRO AO OBTER URL: 'response'
+2026-03-04 17:16:44.216929;ERRO AO OBTER URL: 'response'
+2026-03-04 17:17:04.560274;ERRO AO OBTER URL: 'response'
+2026-03-04 17:17:09.888762;ERRO AO OBTER URL: 'response'
+2026-03-09 11:20:18.260273;ERRO AO OBTER URL: 'response'
+2026-03-09 11:20:23.550310;ERRO AO OBTER URL: 'response'
+2026-03-09 11:20:28.883865;ERRO AO OBTER URL: 'response'
+2026-03-09 11:20:34.200387;ERRO AO OBTER URL: 'response'
+2026-03-09 11:20:39.523415;ERRO AO OBTER URL: 'response'
+2026-03-09 11:20:44.861243;ERRO AO OBTER URL: 'response'
+2026-03-09 11:20:50.149507;ERRO AO OBTER URL: 'response'
+2026-03-09 11:20:55.443920;ERRO AO OBTER URL: 'response'
+2026-03-09 11:21:00.750478;ERRO AO OBTER URL: 'response'
+2026-03-09 11:21:06.037843;ERRO AO OBTER URL: 'response'
+2026-03-09 11:21:11.044385;CRITICAL ERROR IN BASE REPORT (gen): Failed to retrieve Base Report URL
+2026-03-09 12:08:10.861591;Error triggering Banking Report: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-03-09 15:35:27.420096;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-09 15:36:28.106525;ERRO AO OBTER URL: 'response'
+2026-03-09 15:36:33.402553;ERRO AO OBTER URL: 'response'
+2026-03-09 15:36:38.712584;ERRO AO OBTER URL: 'response'
+2026-03-09 15:36:44.016177;ERRO AO OBTER URL: 'response'
+2026-03-09 15:36:49.304009;ERRO AO OBTER URL: 'response'
+2026-03-09 15:36:54.644382;ERRO AO OBTER URL: 'response'
+2026-03-09 15:36:59.984089;ERRO AO OBTER URL: 'response'
+2026-03-09 15:37:05.309905;ERRO AO OBTER URL: 'response'
+2026-03-09 15:37:10.664078;ERRO AO OBTER URL: 'response'
+2026-03-09 15:37:15.961243;ERRO AO OBTER URL: 'response'
+2026-03-09 15:37:20.977324;CRITICAL ERROR IN BASE REPORT (gen): Failed to retrieve Base Report URL
+2026-03-09 15:47:57.283954;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-09 15:55:16.232785;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-09 15:59:30.205099;ERRO AO OBTER URL: 'response'
+2026-03-09 15:59:35.514424;ERRO AO OBTER URL: 'response'
+2026-03-09 15:59:40.841815;ERRO AO OBTER URL: 'response'
+2026-03-09 15:59:46.139984;ERRO AO OBTER URL: 'response'
+2026-03-09 15:59:51.480804;ERRO AO OBTER URL: 'response'
+2026-03-09 15:59:56.824030;ERRO AO OBTER URL: 'response'
+2026-03-09 16:01:03.449093;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-09 16:09:00.390377;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-09 16:10:00.990071;ERRO AO OBTER URL: 'response'
+2026-03-09 16:10:06.743910;ERRO AO OBTER URL: 'response'
+2026-03-09 16:10:12.077594;ERRO AO OBTER URL: 'response'
+2026-03-09 16:10:17.396901;ERRO AO OBTER URL: 'response'
+2026-03-09 16:10:22.746621;ERRO AO OBTER URL: 'response'
+2026-03-09 16:10:28.102361;ERRO AO OBTER URL: 'response'
+2026-03-09 16:10:33.485359;ERRO AO OBTER URL: 'response'
+2026-03-09 16:10:38.811272;ERRO AO OBTER URL: 'response'
+2026-03-09 16:10:44.535501;ERRO AO OBTER URL: 'response'
+2026-03-09 16:10:49.850431;ERRO AO OBTER URL: 'response'
+2026-03-09 16:10:54.864549;CRITICAL ERROR IN BASE REPORT (gen): Failed to retrieve Base Report URL
+2026-03-09 16:12:56.345422;ERRO AO OBTER URL: 'response'
+2026-03-09 16:13:01.649978;ERRO AO OBTER URL: 'response'
+2026-03-09 16:13:07.042316;ERRO AO OBTER URL: 'response'
+2026-03-09 16:13:12.364214;ERRO AO OBTER URL: 'response'
+2026-03-09 16:13:17.664194;ERRO AO OBTER URL: 'response'
+2026-03-09 16:13:22.954263;ERRO AO OBTER URL: 'response'
+2026-03-09 16:13:28.246889;ERRO AO OBTER URL: 'response'
+2026-03-09 16:13:33.552586;ERRO AO OBTER URL: 'response'
+2026-03-09 16:13:38.939859;ERRO AO OBTER URL: 'response'
+2026-03-09 16:13:44.264205;ERRO AO OBTER URL: 'response'
+2026-03-09 16:14:50.151907;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-09 16:31:38.078276;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-09 16:43:15.400271;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-11 14:42:19.265762;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-11 14:45:23.214457;ERRO AO OBTER URL: 'response'
+2026-03-11 14:45:28.553508;ERRO AO OBTER URL: 'response'
+2026-03-11 14:45:33.838428;ERRO AO OBTER URL: 'response'
+2026-03-11 14:45:39.148176;ERRO AO OBTER URL: 'response'
+2026-03-11 14:45:44.478552;ERRO AO OBTER URL: 'response'
+2026-03-11 14:45:49.846032;ERRO AO OBTER URL: 'response'
+2026-03-11 14:45:55.181889;ERRO AO OBTER URL: 'response'
+2026-03-11 14:46:00.476913;ERRO AO OBTER URL: 'response'
+2026-03-11 14:46:05.784616;ERRO AO OBTER URL: 'response'
+2026-03-11 14:46:11.097851;ERRO AO OBTER URL: 'response'
+2026-03-11 14:47:17.374575;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-12 10:51:52.747590;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-03-12 10:51:58.075492;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-12 10:52:03.613017;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-12 10:52:08.983265;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-12 10:52:14.306904;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-12 10:52:19.839386;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-12 10:52:25.213292;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-12 10:52:30.726595;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-12 10:52:36.043778;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-12 10:52:41.393555;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-12 10:52:46.396447;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-03-12 10:55:50.261587;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-12 11:07:27.916489;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-13 16:24:10.228819;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-13 16:35:48.737889;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-19 12:05:49.565225;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-03-19 12:06:24.697855;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-03-19 12:06:31.316786;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-19 12:06:36.800280;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-19 12:06:42.329236;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-19 12:06:47.680723;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-19 12:06:53.239993;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-19 12:06:59.052435;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-19 12:07:04.397729;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-19 12:07:10.975370;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-19 12:07:15.984439;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-03-19 12:10:20.430139;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-19 12:22:00.438952;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-22 16:23:24.277229;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-22 16:23:24.764328;Error fetching Position Partner Report: 404 Client Error: Not Found for url: https://api.btgpactual.com/api-rm-reports/api/v1/position/partner
+2026-03-22 16:39:10.378708;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-22 16:39:10.929975;Error fetching Position Partner Report: 404 Client Error: Not Found for url: https://api.btgpactual.com/api-rm-reports/api/v1/position/partner
+2026-03-22 16:47:07.442948;Error fetching Position Partner Report: 404 Client Error: Not Found for url: https://api.btgpactual.com/api-rm-reports/api/v1/position/partner
+2026-03-22 16:47:07.853721;Error fetching Position Partner Report: 404 Client Error: Not Found for url: https://api.btgpactual.com/api-rm-reports/api/v1/position/partner
+2026-03-22 16:54:00.196019;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-22 17:05:41.677486;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 14:38:57.154336;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 14:38:58.393530;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 14:44:38.568255;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 14:45:39.100072;ERRO AO OBTER URL: 'response'
+2026-03-25 14:45:44.396233;ERRO AO OBTER URL: 'response'
+2026-03-25 14:45:49.671093;ERRO AO OBTER URL: 'response'
+2026-03-25 14:45:54.966372;ERRO AO OBTER URL: 'response'
+2026-03-25 14:46:00.644009;ERRO AO OBTER URL: 'response'
+2026-03-25 14:46:05.994060;ERRO AO OBTER URL: 'response'
+2026-03-25 14:46:11.298291;ERRO AO OBTER URL: 'response'
+2026-03-25 14:46:16.565235;ERRO AO OBTER URL: 'response'
+2026-03-25 14:46:21.867058;ERRO AO OBTER URL: 'response'
+2026-03-25 14:46:27.173997;ERRO AO OBTER URL: 'response'
+2026-03-25 14:46:32.175624;CRITICAL ERROR IN BASE REPORT (gen): Failed to retrieve Base Report URL
+2026-03-25 14:49:47.235881;ERRO AO OBTER URL: 520 Server Error:  for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 14:54:42.205693;PERF ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 14:54:42.392523;PERF ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 14:55:37.556621;PERF ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 14:55:37.826580;PERF ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 14:57:25.852260;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-25 14:57:26.003920;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-25 14:58:38.318944;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-25 14:58:38.523877;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-25 15:00:05.775761;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-25 15:00:05.949851;Error triggering Performance Account Report: BTG API error: 405 - {"type":"about:blank","title":"Method Not Allowed","status":405,"detail":"Method 'GET' is not supported.","instance":"/api/v1/performance-report/account"}
+2026-03-25 15:00:33.968772;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 15:00:34.575429;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 15:00:59.918311;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 15:01:00.164168;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 15:13:46.703673;PERFORMANCE ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 15:13:47.780376;PERFORMANCE ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 15:15:00.842277;PERFORMANCE ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 15:15:01.208893;PERFORMANCE ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 15:15:46.355463;PERFORMANCE ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 15:15:46.571950;PERFORMANCE ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 15:16:27.782033;PERFORMANCE ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 15:16:28.016109;PERFORMANCE ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 15:16:56.638234;PERFORMANCE ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 15:16:56.874518;PERFORMANCE ERROR: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-25 15:26:39.425279;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 15:26:39.758947;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-03-25 15:27:40.298263;ERRO AO OBTER URL: 'response'
+2026-03-25 15:27:45.629928;ERRO AO OBTER URL: 'response'
+2026-03-25 15:27:50.963728;ERRO AO OBTER URL: 'response'
+2026-03-25 15:27:56.300763;ERRO AO OBTER URL: 'response'
+2026-03-25 15:28:02.244995;ERRO AO OBTER URL: 'response'
+2026-03-25 15:28:07.550667;ERRO AO OBTER URL: 'response'
+2026-03-25 15:28:12.874219;ERRO AO OBTER URL: 'response'
+2026-03-25 15:28:18.198819;ERRO AO OBTER URL: 'response'
+2026-03-25 15:28:23.535611;ERRO AO OBTER URL: 'response'
+2026-03-25 15:28:28.827036;ERRO AO OBTER URL: 'response'
+2026-03-25 15:28:33.831742;CRITICAL ERROR IN BASE REPORT (gen): Failed to retrieve Base Report URL
+2026-03-25 15:42:07.015572;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 15:42:07.165488;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-03-25 15:54:56.589875;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 15:54:56.828937;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-03-25 17:30:15.828961;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:30:21.115797;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:30:27.485689;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:31:33.707441;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:31:39.046614;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:31:44.463352;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:31:49.795966;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:31:55.150645;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:32:00.455419;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:32:05.793744;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:32:11.109346;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:32:16.494901;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:32:21.820621;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-25 17:32:27.023200;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-25 17:32:27.189705;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-03-31 15:00:32.840913;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-03-31 15:00:53.235822;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-31 15:00:58.529872;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-31 15:01:03.850361;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-31 15:01:09.163778;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-31 15:01:14.475913;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-31 15:01:19.791836;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-31 15:01:25.095779;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-31 15:01:30.424138;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-31 15:01:35.750298;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-03-31 15:01:40.764343;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-03-31 15:04:43.570350;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-31 15:04:43.727681;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-03-31 15:19:27.815824;ERRO AO OBTER URL: 'response'
+2026-03-31 15:19:33.126021;ERRO AO OBTER URL: 'response'
+2026-03-31 15:19:38.781612;ERRO AO OBTER URL: 'response'
+2026-03-31 15:19:44.085904;ERRO AO OBTER URL: 'response'
+2026-03-31 15:19:49.646275;ERRO AO OBTER URL: 'response'
+2026-03-31 15:19:55.138836;ERRO AO OBTER URL: 'response'
+2026-03-31 15:21:01.455902;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-03-31 15:21:01.565565;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-03-31 15:45:37.374236;PERF ERROR 123456: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-03-31 15:45:37.929087;PERF ERROR 7891011: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-04-01 16:11:08.370520;PERF ERROR 123456: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-04-01 16:11:08.717654;PERF ERROR 7891011: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"accountNumber":{"code":"NotNull","message":"Requires accountNumber"}}}}
+2026-04-01 16:16:59.345502;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-01 16:16:59.522774;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-01 16:17:00.297120;Error triggering Profitability by Product Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-01 16:17:12.278964;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-01 16:17:12.477252;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-01 16:17:12.711308;Error triggering Profitability by Product Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-01 17:18:27.769508;ERRO AO OBTER URL: 'response'
+2026-04-01 17:19:34.879001;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-01 17:19:35.031800;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-01 17:19:35.368357;Error triggering Profitability by Product Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-01 17:19:39.764519;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-01 17:19:40.035703;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-01 17:19:40.304225;Error triggering Profitability by Product Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-06 15:10:59.626488;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-06 15:10:59.986519;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-06 15:11:00.566509;Error triggering Profitability by Product Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-07 18:53:28.442442;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-04-07 18:54:50.139220;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-07 18:54:55.468441;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-07 18:55:00.796777;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-07 18:55:06.241612;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-07 18:55:11.560626;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-07 18:55:16.912248;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-07 18:55:22.269455;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-07 18:55:27.814243;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-07 18:55:33.165421;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-07 18:55:38.502074;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-07 18:55:43.895151;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-07 18:55:44.196592;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-07 18:55:44.512766;Error triggering Profitability by Product Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-08 10:23:17.250748;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-08 10:23:17.545394;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-08 10:23:17.880782;Error triggering Profitability by Product Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-08 15:32:55.088514;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-04-08 15:33:00.410065;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-08 15:33:05.732022;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-08 15:33:11.024699;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-08 15:33:16.351948;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-08 15:33:21.702299;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-08 15:33:27.014821;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-08 15:33:32.330955;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-08 15:33:37.733629;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-08 15:33:43.067237;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-08 15:33:48.074499;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-04-08 15:36:51.636920;Error triggering Performance Account Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-08 15:36:51.913857;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-08 15:36:52.308461;Error triggering Profitability by Product Report: BTG API error: 400 - {"status":403,"title":"HTTP message nor readable for request","meta":{"globalErrors":[{"code":"errors.httpMessageNotReadable","message":"errors.httpMessageNotReadable"}]}}
+2026-04-08 15:50:56.076284;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-08 15:50:56.300625;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-08 16:11:42.894875;ERRO AO OBTER URL: 'response'
+2026-04-08 16:11:48.229928;ERRO AO OBTER URL: 'response'
+2026-04-08 16:11:53.523261;ERRO AO OBTER URL: 'response'
+2026-04-08 16:11:58.831665;ERRO AO OBTER URL: 'response'
+2026-04-08 16:12:04.160870;ERRO AO OBTER URL: 'response'
+2026-04-08 16:13:11.250606;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-08 16:13:11.582057;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-08 16:13:12.104208;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-08 16:36:19.066494;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-08 16:36:19.319613;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-08 17:13:45.896195;ERRO AO OBTER URL: 'response'
+2026-04-08 17:13:51.271133;ERRO AO OBTER URL: 'response'
+2026-04-08 17:13:56.599623;ERRO AO OBTER URL: 'response'
+2026-04-08 17:15:04.430907;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-08 17:15:04.657015;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-08 17:15:04.973892;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-10 09:41:49.587045;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-04-10 09:41:54.945978;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-10 09:42:00.304662;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-10 09:42:05.668189;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-10 09:42:10.986754;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-10 09:42:16.317220;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-10 09:42:21.643754;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-10 09:42:26.963682;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-10 09:42:32.397202;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-10 09:42:37.822569;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-10 09:42:42.829088;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-04-10 09:45:47.060424;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-10 09:45:47.325593;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-10 09:54:03.780150;ERRO AO OBTER URL: 'response'
+2026-04-10 09:54:09.130417;ERRO AO OBTER URL: 'response'
+2026-04-10 09:54:14.558992;ERRO AO OBTER URL: 'response'
+2026-04-10 09:54:19.893795;ERRO AO OBTER URL: 'response'
+2026-04-10 09:54:25.308539;ERRO AO OBTER URL: 'response'
+2026-04-10 09:54:30.637759;ERRO AO OBTER URL: 'response'
+2026-04-10 09:54:35.987658;ERRO AO OBTER URL: 'response'
+2026-04-10 09:54:41.798679;ERRO AO OBTER URL: 'response'
+2026-04-10 09:55:48.460092;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-10 09:55:48.871400;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-10 09:55:49.277678;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-13 15:18:59.277788;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-04-13 15:19:04.601532;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-13 15:19:09.915457;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-13 15:19:15.257568;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-13 15:19:20.547607;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-13 15:19:26.224981;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-13 15:19:32.622308;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-13 15:19:37.923951;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-13 15:19:43.646599;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-13 15:19:48.953776;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-13 15:19:53.965749;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-04-13 15:22:57.553732;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-13 15:22:57.844128;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-13 16:21:43.116150;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-13 16:21:43.357568;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-16 14:44:31.733141;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-16 14:44:31.993111;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-16 14:45:33.090958;ERRO AO OBTER URL: 'response'
+2026-04-16 14:45:38.425414;ERRO AO OBTER URL: 'response'
+2026-04-16 14:45:43.762485;ERRO AO OBTER URL: 'response'
+2026-04-16 14:45:49.080203;ERRO AO OBTER URL: 'response'
+2026-04-16 14:45:54.729749;ERRO AO OBTER URL: 'response'
+2026-04-16 14:46:00.055275;ERRO AO OBTER URL: 'response'
+2026-04-16 14:46:05.374284;ERRO AO OBTER URL: 'response'
+2026-04-16 14:46:10.692893;ERRO AO OBTER URL: 'response'
+2026-04-16 14:46:16.000450;ERRO AO OBTER URL: 'response'
+2026-04-16 14:46:21.293677;ERRO AO OBTER URL: 'response'
+2026-04-16 14:51:10.542253;ERRO AO OBTER URL: 'response'
+2026-04-16 14:51:15.854763;ERRO AO OBTER URL: 'response'
+2026-04-16 14:51:21.171835;ERRO AO OBTER URL: 'response'
+2026-04-16 14:51:26.490802;ERRO AO OBTER URL: 'response'
+2026-04-16 14:51:31.844732;ERRO AO OBTER URL: 'response'
+2026-04-16 14:51:37.159942;ERRO AO OBTER URL: 'response'
+2026-04-16 14:51:42.484449;ERRO AO OBTER URL: 'response'
+2026-04-16 14:51:47.809690;ERRO AO OBTER URL: 'response'
+2026-04-16 14:51:53.123002;ERRO AO OBTER URL: 'response'
+2026-04-16 14:52:59.569718;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-16 14:53:00.000901;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-16 14:53:00.784170;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-20 17:22:46.621206;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-20 17:22:46.865627;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-20 17:43:33.840775;ERRO AO OBTER URL: 'response'
+2026-04-20 17:43:39.171470;ERRO AO OBTER URL: 'response'
+2026-04-20 17:43:44.481118;ERRO AO OBTER URL: 'response'
+2026-04-20 17:43:49.835362;ERRO AO OBTER URL: 'response'
+2026-04-20 17:43:55.163395;ERRO AO OBTER URL: 'response'
+2026-04-20 17:45:01.815143;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-20 17:45:02.032980;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-20 17:45:02.632577;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-22 12:55:24.941326;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Max retries exceeded with url: /webhook (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C8DC8B6B00>: Failed to resolve 'api-btg-2.onrender.com' ([Errno 11004] getaddrinfo failed)"))
+2026-04-22 12:55:51.318545;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-22 12:55:56.936733;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-22 12:56:02.238675;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-22 12:56:07.537393;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-22 12:56:12.830849;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-22 12:56:18.132068;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-22 12:56:23.451668;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-22 12:56:28.743187;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-22 12:56:34.088540;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-22 12:56:40.226111;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-22 12:56:40.430424;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-22 13:59:29.597971;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-22 14:00:36.768406;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-22 14:00:36.949225;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-22 14:00:37.319150;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-22 15:06:36.712765;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-22 15:06:36.960552;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-22 15:14:52.264586;ERRO AO OBTER URL: 'response'
+2026-04-22 15:14:57.609381;ERRO AO OBTER URL: 'response'
+2026-04-22 15:15:02.901593;ERRO AO OBTER URL: 'response'
+2026-04-22 15:15:08.246330;ERRO AO OBTER URL: 'response'
+2026-04-22 15:15:13.567933;ERRO AO OBTER URL: 'response'
+2026-04-22 15:15:18.883580;ERRO AO OBTER URL: 'response'
+2026-04-22 15:15:24.236033;ERRO AO OBTER URL: 'response'
+2026-04-22 15:15:29.556927;ERRO AO OBTER URL: 'response'
+2026-04-22 15:16:36.477602;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-22 15:16:36.877064;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-22 15:16:37.172848;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-22 21:23:26.143569;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-22 21:23:26.321890;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-22 21:25:28.125054;Error merging datasets for consultoria: 'nr_conta'
+2026-04-23 13:09:49.878676;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-04-23 13:10:22.246224;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-23 13:10:27.562193;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-23 13:10:32.981890;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-23 13:10:38.298299;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-23 13:10:43.640982;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-23 13:10:48.951843;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-23 13:10:54.266982;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-23 13:10:59.585210;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-23 13:11:04.894803;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-23 13:11:09.897840;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-04-23 13:14:13.525491;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-23 13:14:13.784156;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-23 13:16:15.959541;Error merging datasets for consultoria: 'nr_conta'
+2026-04-23 14:17:43.348877;ERRO AO OBTER URL: 'response'
+2026-04-23 14:18:50.625459;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-23 14:18:51.108080;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-23 14:18:51.337619;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-23 14:18:51.606985;Error triggering Onboarding Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-23 14:39:12.413491;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-23 14:39:12.680935;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-23 15:02:00.630851;ERRO AO OBTER URL: 'response'
+2026-04-23 15:02:05.949348;ERRO AO OBTER URL: 'response'
+2026-04-23 15:02:11.275540;ERRO AO OBTER URL: 'response'
+2026-04-23 15:02:16.596945;ERRO AO OBTER URL: 'response'
+2026-04-23 15:02:21.916835;ERRO AO OBTER URL: 'response'
+2026-04-23 15:03:29.375846;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-23 15:03:29.660605;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-23 15:03:29.948603;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-23 15:03:30.275934;Error triggering Onboarding Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-23 16:03:23.678534;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-04-23 20:29:14.808631;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-23 20:29:14.982053;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-23 20:30:15.593755;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:30:20.942605;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:30:26.210010;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:30:31.492948;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:30:36.796649;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:30:42.103034;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:30:47.415092;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:30:52.746979;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:30:58.398457;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:31:03.722585;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:32:10.475586;Error triggering Partner Onboarding Report: BTG API error: 400 - {"status":400,"title":"errors.validation","meta":{"globalErrors":[{"code":"errors.validation","message":"Per�odo de busca n�o pode ser maior que os �ltimos 30 dias"}]}}
+2026-04-23 20:42:06.065842;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-23 20:42:06.258879;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-23 20:43:06.763691;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:43:12.127706;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:43:17.453120;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:43:23.095371;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:43:28.397022;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:43:33.700458;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:43:39.033363;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:43:44.373888;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:43:49.685967;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:43:55.007006;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 20:45:01.484980;Error triggering Partner Onboarding Report: BTG API error: 400 - {"status":400,"title":"errors.validation","meta":{"globalErrors":[{"code":"errors.validation","message":"O per�odo n�o pode ser maior que 30 dias entre startDate e endDate"}]}}
+2026-04-23 21:10:54.005277;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-23 21:10:54.238973;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-23 21:11:00.966591;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-23 21:11:01.152144;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-23 21:11:54.766745;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:00.175634;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:01.739571;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:05.475706;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:07.046886;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:11.199505;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:12.367776;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:16.494674;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:17.662328;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:21.830525;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:22.956591;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:27.117025;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:28.228079;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:32.432120;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:33.516490;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:37.738884;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:38.784770;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:43.040820;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:12:44.089759;ERRO AO OBTER URL: write() argument must be str, not None
+2026-04-23 21:13:49.675724;Error triggering Partner Onboarding Report: BTG API error: 400 - {"status":400,"title":"errors.validation","meta":{"globalErrors":[{"code":"errors.validation","message":"O per�odo n�o pode ser maior que 30 dias entre startDate e endDate"}]}}
+2026-04-23 21:13:51.503805;Error triggering Partner Onboarding Report: BTG API error: 400 - {"status":400,"title":"errors.validation","meta":{"globalErrors":[{"code":"errors.validation","message":"O per�odo n�o pode ser maior que 30 dias entre startDate e endDate"}]}}
+2026-04-23 21:25:26.402983;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-23 21:25:26.608271;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-23 21:25:26.842330;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-23 21:25:27.125638;Error triggering Onboarding Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-23 21:25:27.377708;Error triggering Partner Onboarding Report: BTG API error: 400 - {"status":400,"title":"errors.validation","meta":{"globalErrors":[{"code":"errors.validation","message":"O per�odo n�o pode ser maior que 30 dias entre startDate e endDate"}]}}
+2026-04-27 13:03:38.631622;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-27 13:03:38.881704;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-27 13:43:08.125330;ERRO AO OBTER URL: 'response'
+2026-04-27 13:43:13.851788;ERRO AO OBTER URL: 'response'
+2026-04-27 13:43:19.185470;ERRO AO OBTER URL: 'response'
+2026-04-27 13:44:26.948492;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-27 13:44:27.206125;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-27 13:44:27.791577;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-27 13:44:28.004572;Error triggering Onboarding Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-27 14:30:52.466920;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-27 14:30:52.863038;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-27 14:41:53.555692;ERRO AO OBTER URL: 'response'
+2026-04-27 14:41:58.924480;ERRO AO OBTER URL: 'response'
+2026-04-27 14:42:04.237088;ERRO AO OBTER URL: 'response'
+2026-04-27 14:42:09.572695;ERRO AO OBTER URL: 'response'
+2026-04-27 14:42:15.224314;ERRO AO OBTER URL: 'response'
+2026-04-27 14:42:20.518679;ERRO AO OBTER URL: 'response'
+2026-04-27 14:42:25.870970;ERRO AO OBTER URL: 'response'
+2026-04-27 14:42:31.174362;ERRO AO OBTER URL: 'response'
+2026-04-27 14:42:36.510453;ERRO AO OBTER URL: 'response'
+2026-04-27 14:42:41.811427;ERRO AO OBTER URL: 'response'
+2026-04-27 14:43:47.505839;ERRO AO OBTER URL: 'response'
+2026-04-27 14:43:52.824383;ERRO AO OBTER URL: 'response'
+2026-04-27 14:43:58.209309;ERRO AO OBTER URL: 'response'
+2026-04-27 14:44:03.498703;ERRO AO OBTER URL: 'response'
+2026-04-27 14:44:09.169543;ERRO AO OBTER URL: 'response'
+2026-04-27 14:44:14.472260;ERRO AO OBTER URL: 'response'
+2026-04-27 14:44:19.798876;ERRO AO OBTER URL: 'response'
+2026-04-27 14:44:25.153510;ERRO AO OBTER URL: 'response'
+2026-04-27 14:44:30.435849;ERRO AO OBTER URL: 'response'
+2026-04-27 14:44:35.758338;ERRO AO OBTER URL: 'response'
+2026-04-27 15:57:32.028924;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-27 16:08:38.997700;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-04-27 16:08:39.350959;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-04-27 16:18:39.826869;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-27 16:18:40.243277;Error triggering Onboarding Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-04-27 16:30:02.978580;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-27 16:30:08.296462;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-27 16:30:13.633666;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-27 16:30:19.333861;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-27 16:30:24.657502;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-27 16:30:29.982360;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-27 16:30:35.268718;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-27 16:30:40.590357;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-27 16:30:45.889302;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-04-27 16:30:51.193927;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 12:04:59.244309;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-05-04 12:05:04.558146;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 12:05:09.869953;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 12:05:15.188016;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 12:05:20.488326;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 12:05:25.809037;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 12:05:31.120118;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 12:05:36.400609;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 12:05:42.048317;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 12:05:47.337819;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 12:05:52.352189;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-05-04 12:18:55.314318;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-04 12:18:56.106330;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-04 12:29:56.795419;ERRO AO OBTER URL: 'response'
+2026-05-04 12:30:02.092996;ERRO AO OBTER URL: 'response'
+2026-05-04 12:30:07.428291;ERRO AO OBTER URL: 'response'
+2026-05-04 12:30:12.758443;ERRO AO OBTER URL: 'response'
+2026-05-04 12:30:18.042111;ERRO AO OBTER URL: 'response'
+2026-05-04 12:30:23.378410;ERRO AO OBTER URL: 'response'
+2026-05-04 12:30:28.703939;ERRO AO OBTER URL: 'response'
+2026-05-04 12:30:34.011798;ERRO AO OBTER URL: 'response'
+2026-05-04 12:30:40.045045;ERRO AO OBTER URL: 'response'
+2026-05-04 12:30:45.378440;ERRO AO OBTER URL: 'response'
+2026-05-04 12:31:55.133952;ERRO AO OBTER URL: 'response'
+2026-05-04 12:32:00.469678;ERRO AO OBTER URL: 'response'
+2026-05-04 12:32:05.769827;ERRO AO OBTER URL: 'response'
+2026-05-04 12:32:11.090303;ERRO AO OBTER URL: 'response'
+2026-05-04 12:32:16.364019;ERRO AO OBTER URL: 'response'
+2026-05-04 12:32:21.633499;ERRO AO OBTER URL: 'response'
+2026-05-04 12:32:26.956226;ERRO AO OBTER URL: 'response'
+2026-05-04 12:32:32.616203;ERRO AO OBTER URL: 'response'
+2026-05-04 12:32:37.916368;ERRO AO OBTER URL: 'response'
+2026-05-04 12:32:43.210113;ERRO AO OBTER URL: 'response'
+2026-05-04 12:51:04.356393;ERRO AO OBTER URL: 'response'
+2026-05-04 12:51:09.679894;ERRO AO OBTER URL: 'response'
+2026-05-04 12:51:15.014518;ERRO AO OBTER URL: 'response'
+2026-05-04 12:51:20.292915;ERRO AO OBTER URL: 'response'
+2026-05-04 12:51:25.591417;ERRO AO OBTER URL: 'response'
+2026-05-04 12:51:30.907645;ERRO AO OBTER URL: 'response'
+2026-05-04 12:51:36.197001;ERRO AO OBTER URL: 'response'
+2026-05-04 12:51:41.534383;ERRO AO OBTER URL: 'response'
+2026-05-04 13:02:48.133145;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-04 13:02:48.439289;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-04 13:12:48.945665;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-05-04 13:12:49.500792;Error triggering Onboarding Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-05-04 15:53:56.403664;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-04 15:53:56.789822;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-04 16:17:00.963452;ERRO AO OBTER URL: 'response'
+2026-05-04 16:17:06.283727;ERRO AO OBTER URL: 'response'
+2026-05-04 16:17:11.584418;ERRO AO OBTER URL: 'response'
+2026-05-04 16:17:16.906950;ERRO AO OBTER URL: 'response'
+2026-05-04 16:17:22.255609;ERRO AO OBTER URL: 'response'
+2026-05-04 16:17:27.573111;ERRO AO OBTER URL: 'response'
+2026-05-04 16:17:32.912319;ERRO AO OBTER URL: 'response'
+2026-05-04 16:17:38.247021;ERRO AO OBTER URL: 'response'
+2026-05-04 16:17:43.574609;ERRO AO OBTER URL: 'response'
+2026-05-04 16:17:48.879910;ERRO AO OBTER URL: 'response'
+2026-05-04 16:45:59.387403;ERRO AO OBTER URL: 'response'
+2026-05-04 16:46:05.040455;ERRO AO OBTER URL: 'response'
+2026-05-04 16:46:10.337154;ERRO AO OBTER URL: 'response'
+2026-05-04 16:46:15.689220;ERRO AO OBTER URL: 'response'
+2026-05-04 16:57:22.131453;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-04 16:57:23.338578;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-04 17:07:23.684583;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-05-04 17:07:24.193351;Error triggering Onboarding Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-05-04 17:18:46.705309;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 17:18:52.026640;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 17:18:57.339619;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 17:19:02.930688;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 17:19:08.241607;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 17:19:13.897244;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 17:19:19.248647;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 17:19:26.386220;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 17:19:31.682988;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-04 17:19:37.243667;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-05 10:29:39.243712;ERRO AO OBTER URL: HTTPSConnectionPool(host='api-btg-2.onrender.com', port=443): Read timed out. (read timeout=30)
+2026-05-05 10:29:44.575928;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-05 10:29:49.891616;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-05 10:29:55.196274;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-05 10:30:00.502331;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-05 10:30:05.801058;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-05 10:30:11.118755;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-05 10:30:16.392782;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-05 10:30:21.699329;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-05 10:30:27.000735;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-05 10:30:32.012027;CRITICAL ERROR IN BASE REPORT (consultoria): Failed to retrieve Base Report URL
+2026-05-05 10:43:35.909400;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-05 10:43:36.689144;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-05 10:54:37.285972;ERRO AO OBTER URL: 'response'
+2026-05-05 10:54:42.609447;ERRO AO OBTER URL: 'response'
+2026-05-05 10:54:47.910004;ERRO AO OBTER URL: 'response'
+2026-05-05 10:54:53.214465;ERRO AO OBTER URL: 'response'
+2026-05-05 10:54:58.535044;ERRO AO OBTER URL: 'response'
+2026-05-05 10:55:03.812759;ERRO AO OBTER URL: 'response'
+2026-05-05 10:55:09.085900;ERRO AO OBTER URL: 'response'
+2026-05-05 10:55:14.371867;ERRO AO OBTER URL: 'response'
+2026-05-05 10:55:19.662068;ERRO AO OBTER URL: 'response'
+2026-05-05 10:55:24.950150;ERRO AO OBTER URL: 'response'
+2026-05-05 11:07:32.018337;ERRO AO OBTER URL: 'response'
+2026-05-05 11:07:37.341698;ERRO AO OBTER URL: 'response'
+2026-05-05 11:07:42.635158;ERRO AO OBTER URL: 'response'
+2026-05-05 11:07:47.945895;ERRO AO OBTER URL: 'response'
+2026-05-05 11:07:53.241607;ERRO AO OBTER URL: 'response'
+2026-05-05 11:07:58.548824;ERRO AO OBTER URL: 'response'
+2026-05-05 11:08:03.872498;ERRO AO OBTER URL: 'response'
+2026-05-05 11:08:09.177201;ERRO AO OBTER URL: 'response'
+2026-05-05 11:08:14.508996;ERRO AO OBTER URL: 'response'
+2026-05-05 11:08:19.805753;ERRO AO OBTER URL: 'response'
+2026-05-05 11:13:08.731137;ERRO AO OBTER URL: 'response'
+2026-05-05 11:13:14.039074;ERRO AO OBTER URL: 'response'
+2026-05-05 11:13:19.375362;ERRO AO OBTER URL: 'response'
+2026-05-05 11:13:24.685010;ERRO AO OBTER URL: 'response'
+2026-05-05 11:13:30.005735;ERRO AO OBTER URL: 'response'
+2026-05-05 11:13:35.291667;ERRO AO OBTER URL: 'response'
+2026-05-05 11:13:40.585303;ERRO AO OBTER URL: 'response'
+2026-05-05 11:13:45.959471;ERRO AO OBTER URL: 'response'
+2026-05-05 11:13:51.264548;ERRO AO OBTER URL: 'response'
+2026-05-05 11:41:32.212773;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-05 11:41:32.442254;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-05 12:21:01.234014;ERRO AO OBTER URL: 'response'
+2026-05-05 12:21:06.557013;ERRO AO OBTER URL: 'response'
+2026-05-05 12:21:11.872297;ERRO AO OBTER URL: 'response'
+2026-05-05 12:22:19.143757;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-05 12:22:19.425998;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-05 12:22:19.729372;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-05-05 12:22:20.015755;Error triggering Onboarding Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-05-05 12:27:31.286334;ERRO AO OBTER URL: 'response'
+2026-05-05 12:27:36.605763;ERRO AO OBTER URL: 'response'
+2026-05-05 12:27:41.927196;ERRO AO OBTER URL: 'response'
+2026-05-05 12:27:47.240109;ERRO AO OBTER URL: 'response'
+2026-05-05 12:27:52.558607;ERRO AO OBTER URL: 'response'
+2026-05-05 12:27:57.880665;ERRO AO OBTER URL: 'response'
+2026-05-05 12:28:03.181074;ERRO AO OBTER URL: 'response'
+2026-05-05 12:28:08.471570;ERRO AO OBTER URL: 'response'
+2026-05-05 15:49:05.187316;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-05 15:49:05.560879;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-05 16:53:58.638265;ERRO AO OBTER URL: 500 Server Error: Internal Server Error for url: https://api-btg-2.onrender.com/webhook
+2026-05-05 16:55:05.974903;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-05 16:55:06.260965;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-05 16:55:06.496834;Error triggering Profitability by Product Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-05-05 16:55:06.725469;Error triggering Onboarding Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"Webhook not registered for partner cnpj [21891835000159], cge [1040782]"}]}}
+2026-05-05 17:07:48.997894;ERRO AO OBTER URL: 'response'
+2026-05-05 17:07:54.309016;ERRO AO OBTER URL: 'response'
+2026-05-05 17:07:59.942903;ERRO AO OBTER URL: 'response'
+2026-05-05 17:08:05.235643;ERRO AO OBTER URL: 'response'
+2026-05-05 17:08:10.556457;ERRO AO OBTER URL: 'response'
+2026-05-05 17:08:15.884128;ERRO AO OBTER URL: 'response'
+2026-05-18 15:17:12.346955;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-18 15:17:12.563988;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-18 15:20:16.050512;Error triggering Funds Information Report: BTG API error: 404 - {"status":404,"title":"Entity not found for request","meta":{"globalErrors":[{"code":"entity.not.found.for.request","message":"No webhookPartner found for partner cge 8267755 and webhookService funds-information-by-partner"}]}}
+2026-05-18 15:34:30.309593;ERRO AO OBTER URL: 'response'
+2026-05-18 15:34:35.755000;ERRO AO OBTER URL: 'response'
+2026-05-18 15:34:41.048062;ERRO AO OBTER URL: 'response'
+2026-05-18 15:34:46.332250;ERRO AO OBTER URL: 'response'
+2026-05-18 15:34:51.650599;ERRO AO OBTER URL: 'response'
+2026-05-18 15:34:56.925415;ERRO AO OBTER URL: 'response'
+2026-05-18 15:35:02.219097;ERRO AO OBTER URL: 'response'
+2026-05-18 15:35:07.494777;ERRO AO OBTER URL: 'response'
+2026-05-18 15:35:12.782161;ERRO AO OBTER URL: 'response'
+2026-05-18 15:35:18.423361;ERRO AO OBTER URL: 'response'
+2026-05-18 15:36:24.377151;ERRO AO OBTER URL: 'response'
+2026-05-18 15:36:29.669298;ERRO AO OBTER URL: 'response'
+2026-05-18 15:36:34.985726;ERRO AO OBTER URL: 'response'
+2026-05-18 15:36:40.369838;ERRO AO OBTER URL: 'response'
+2026-05-18 15:36:45.654431;ERRO AO OBTER URL: 'response'
+2026-05-18 15:36:51.315809;ERRO AO OBTER URL: 'response'
+2026-05-18 15:36:56.600725;ERRO AO OBTER URL: 'response'
+2026-05-18 15:37:01.891233;ERRO AO OBTER URL: 'response'
+2026-05-18 15:37:07.166817;ERRO AO OBTER URL: 'response'
+2026-05-18 15:37:12.454287;ERRO AO OBTER URL: 'response'
+2026-05-18 15:41:46.569446;ERRO AO OBTER URL: 'response'
+2026-05-18 15:41:51.919587;ERRO AO OBTER URL: 'response'
+2026-05-18 15:41:57.220133;ERRO AO OBTER URL: 'response'
+2026-05-18 15:42:02.540078;ERRO AO OBTER URL: 'response'
+2026-05-18 15:42:07.867853;ERRO AO OBTER URL: 'response'
+2026-05-18 15:42:13.178231;ERRO AO OBTER URL: 'response'
+2026-05-18 15:42:18.459440;ERRO AO OBTER URL: 'response'
+2026-05-18 15:42:23.788480;ERRO AO OBTER URL: 'response'
+2026-05-18 15:42:29.107460;ERRO AO OBTER URL: 'response'
+2026-05-18 15:42:34.431664;ERRO AO OBTER URL: 'response'
+2026-05-18 15:43:41.770903;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-18 15:43:42.184256;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-18 15:47:47.181604;ERRO AO OBTER URL: 'response'
+2026-05-18 15:47:52.509897;ERRO AO OBTER URL: 'response'
+2026-05-18 15:47:57.803051;ERRO AO OBTER URL: 'response'
+2026-05-18 15:48:03.108735;ERRO AO OBTER URL: 'response'
+2026-05-18 15:48:08.406293;ERRO AO OBTER URL: 'response'
+2026-05-18 15:48:13.689122;ERRO AO OBTER URL: 'response'
+2026-05-18 15:48:18.969038;ERRO AO OBTER URL: 'response'
+2026-05-18 15:48:24.398867;ERRO AO OBTER URL: 'response'
+2026-05-18 15:48:29.688895;ERRO AO OBTER URL: 'response'
+2026-05-18 15:48:34.979915;ERRO AO OBTER URL: 'response'
+2026-05-18 16:11:15.428715;Error triggering Performance Account Report: BTG API error: 400 - {"status":400,"title":"Bad Request","meta":{"fieldErrors":{"endDate":{"code":"NotNull","message":"Requires endDate"},"accountNumber":{"code":"NotNull","message":"Requires accountNumber"},"startDate":{"code":"NotNull","message":"Requires startDate"}}}}
+2026-05-18 16:11:15.691625;Error triggering Movements Report: BTG API error: 404 - {"type":"about:blank","title":"Not Found","status":404,"detail":"No static resource api/v1/operation-history/monthly.","instance":"/api/v1/operation-history/monthly"}
+2026-05-18 16:15:20.447205;ERRO AO OBTER URL: 'response'
+2026-05-18 16:15:25.734671;ERRO AO OBTER URL: 'response'
+2026-05-18 16:15:31.034665;ERRO AO OBTER URL: 'response'
+2026-05-18 16:15:36.328108;ERRO AO OBTER URL: 'response'
+2026-05-18 16:15:41.730808;ERRO AO OBTER URL: 'response'
+2026-05-18 16:15:47.035703;ERRO AO OBTER URL: 'response'
+2026-05-18 16:15:52.714618;ERRO AO OBTER URL: 'response'
+2026-05-18 16:15:58.001509;ERRO AO OBTER URL: 'response'
+2026-05-18 16:16:03.316086;ERRO AO OBTER URL: 'response'
+2026-05-18 16:16:08.602786;ERRO AO OBTER URL: 'response'
+2026-05-18 16:17:14.332931;ERRO AO OBTER URL: 'response'
+2026-05-18 16:17:19.631306;ERRO AO OBTER URL: 'response'
+2026-05-18 16:17:24.918442;ERRO AO OBTER URL: 'response'
+2026-05-18 16:17:30.207892;ERRO AO OBTER URL: 'response'
+2026-05-18 16:17:35.572746;ERRO AO OBTER URL: 'response'
+2026-05-18 16:17:40.881453;ERRO AO OBTER URL: 'response'
+2026-05-18 16:17:46.172964;ERRO AO OBTER URL: 'response'
+2026-05-18 16:17:54.722550;ERRO AO OBTER URL: 520 Server Error: <none> for url: https://api-btg-2.onrender.com/webhook
+2026-05-18 16:18:00.021231;ERRO AO OBTER URL: 'response'
+2026-05-18 16:18:05.343041;ERRO AO OBTER URL: 'response'

@@ -1,0 +1,62 @@
+======================================================
+RESUMO DOS DADOS: DIRETÓRIO DE ATUALIZAÇÃO (diretorio_arq)
+======================================================
+
+
+1. DADOS DE CLIENTES E CADASTRO
+- consultoria_Dados_Cadastrais.csv / gen_Dados_Cadastrais.csv:
+  O que é: A "ficha de inscrição" do cliente.
+  Conteúdo: Traz as informações pessoais (nome, CPF, data de nascimento, profissão, estado civil), contatos (celular, email, endereço completo) e o perfil de investidor (suitability). Também indica quando a conta foi aberta e a renda declarada.
+
+- consultoria_Cliente_Base_BTG.csv / gen_Cliente_Base_BTG.csv:
+  O que é: O "raio-X" da relação do cliente com a corretora e o assessor.
+  Conteúdo: Além de dados básicos, mostra o Patrimônio Líquido (PL) total do cliente e como ele está dividido (quanto tem em Renda Fixa, Renda Variável, Fundos, Previdência). Mostra também a quantidade de aportes, retiradas e a qual assessor (partner/officer) aquele cliente está vinculado.
+
+- merged_consultoria.csv / merged_gen.csv:
+  O que é: Um "super arquivo" consolidado.
+  Conteúdo: É a junção dos Dados Cadastrais com a Base BTG. Reúne tudo em um lugar só, desde o telefone do cliente até quanto ele tem investido em Renda Fixa e quem é o seu assessor.
+
+2. POSIÇÃO, RENTABILIDADE E MOVIMENTAÇÃO (O dinheiro do cliente)
+- consultoria_Posicao.csv:
+  O que é: A "fotografia" da carteira de investimentos.
+  Conteúdo: Detalha exatamente quais ativos o cliente possui (ações, títulos, fundos), qual a quantidade, quanto custou (valor de custo), quanto vale hoje (valor de mercado, valor bruto/líquido) e informações de impostos (IR/IOF).
+
+- consultoria_Rentabilidade_Diaria_Produto.csv:
+  O que é: O "termômetro" dos investimentos.
+  Conteúdo: Mostra o lucro ou prejuízo (rentabilidade) diário de cada produto da carteira do cliente, permitindo acompanhar se os investimentos estão rendendo o esperado.
+
+- consultoria_Ordens_Bolsa.csv:
+  O que é: O "histórico de compras e vendas" na bolsa.
+  Conteúdo: Registra as ordens enviadas (compra ou venda), o ativo (ticker), a quantidade, o preço, o status da ordem (executada, cancelada) e a data/hora.
+
+3. DADOS BANCÁRIOS E SERVIÇOS
+- consultoria_Banking.csv / gen_Banking.csv:
+  O que é: O uso de serviços de "banco do dia a dia".
+  Conteúdo: Mostra se o cliente usa cartão de crédito, se tem cheque especial aprovado, saldo em conta corrente, se possui seguros (vida, auto, viagem), chave PIX cadastrada e o nível de engajamento dele com o banco.
+
+4. CATÁLOGO DE PRODUTOS (Informações de mercado)
+- consultoria_Debentures.csv / gen_Debentures.csv:
+  O que é: O "catálogo de debêntures" (títulos de dívida de empresas).
+  Conteúdo: Informa o emissor, data de vencimento, taxas de compra e venda, e regras de remuneração de cada título.
+
+- consultoria_Informacao_Fundos.csv / gen_Informacao_Fundos.csv:
+  O que é: O "catálogo de fundos de investimento".
+  Conteúdo: Traz o CNPJ do fundo, quem é o gestor e administrador, taxas cobradas (administração e performance), investimento inicial mínimo e o histórico de rentabilidade (dia, mês, ano).
+
+5. ARQUIVOS DE ONBOARDING
+- consultoria_Dados_Onboarding.csv / consultoria_Dados_Onboarding_Partner.csv:
+  O que é: Dados sobre o processo de "boas-vindas" e abertura de conta.
+  Conteúdo: Acompanham o status das contas que estão sendo abertas, indicando em que fase o cliente está no processo de se tornar cliente oficial da corretora.
+
+
+- consultoria_Debentures.csv / gen_Debentures.csv:
+  O que é: O "catálogo de debêntures" (títulos de dívida de empresas).
+  Conteúdo: Informa o emissor, data de vencimento, taxas de compra e venda, e regras de remuneração de cada título.
+
+- consultoria_Informacao_Fundos.csv / gen_Informacao_Fundos.csv:
+  O que é: O "catálogo de fundos de investimento".
+  Conteúdo: Traz o CNPJ do fundo, quem é o gestor e administrador, taxas cobradas (administração e performance), investimento inicial mínimo e o histórico de rentabilidade (dia, mês, ano).
+
+- consultoria_Banking.csv / gen_Banking.csv:
+  O que é: O uso de serviços de "banco do dia a dia".
+  Conteúdo: Mostra se o cliente usa cartão de crédito, se tem cheque especial aprovado, saldo em conta corrente, se possui seguros (vida, auto, viagem), chave PIX cadastrada e o nível de engajamento dele com o banco.
