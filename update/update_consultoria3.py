@@ -16,8 +16,8 @@ import tokens as tk
 import pygsheets
 from dotenv import load_dotenv
 
-# load_dotenv(".env")
-BTG_WEBHOOK_API_KEY = "a5d4accd-6cc5-4734-bab4-c52b0711cf8a785f0ddb-a67d-4858-bade-da0c24cd7ad4a5ffdef5-0d31-434a-b71b-0865f047d2e2be705127-bd5c-441d-a8af-1a48d916084664aa522e-0bfb-443e-a90e-80cf299a51386456b7f3-7091-498a-8bcf-c345f3b13a71cc9fc6d9-1bc5-4628-95b1-58dab40500277a38d141-2207-42a2-9bf6-17555c290ba376d47b88-9b12-4dce-8083-3486d46ca9af30909bf4-a95c-44a6-8561-dcd8e2acc6010f88f5ac-a41b-4baf-bd76-da5fc3aee9f6e2cd0625-fe6c-456a-8325-2b76c133a10ef2e771c8-10c7-43d9-aa31-4231c6b35f8dee16307d-dd43-429d-ac3e-3cbb311334cf22d6c199-07f1-48ff-86c8-f9fba45ffb0aeb5db59d-caca-4dea-bbbc-989cb3c0e1113b28d6cf-0e9f-4723-bb47-d873113a19584312cca8-6faf-4e66-9db5-f61b63defe049fda4d2e-55cd-45cc-85b3-b89fba18831f20445dd8-4e66-4dbf-9c4d-29b886f86a0a"
+load_dotenv(".env")
+BTG_WEBHOOK_API_KEY = os.getenv("BTG_WEBHOOK_API_KEY")
 
 # =========================
 # CONSTANTS
